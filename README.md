@@ -1,4 +1,4 @@
 # HorariosAutomatrícula
 Repositorio de Jorge Lombardo de la asignatura IV.
 
-El proyecto consistirá en un programa capaz de crearle a un estudiante un horario según las asignaturas que ha seleccionado en un matrícula con el menor número de coincidencias entre horarios posible. Se tendrá en cuenta los alumnos ya matriculados
+Soy un programador que trabaja para la UGR y se me ha encargado desarrollar un programa que asigne a cada alumno el horario que mejor le convenga teniendo en cuenta las asignaturas elegidas en su automatrícula evitando coincidencias de asignaturas, teniendo en cuenta preferencias del alumno como no poder acudir a clase por las mañanas por estar trabajando u otras situaciones similares.
