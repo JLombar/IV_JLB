@@ -19,3 +19,6 @@ LLaves creadas y asociadas a la cuenta de GitHub
 ![Llaves](docs/material_0/llavessh.png)  
 Autenticación correcta  
 ![Autenticación](docs/material_0/autenticacion.png)  
+
+## Objetivo 1  
+[Milestones](docs/material_1/milestones.md)
