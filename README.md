@@ -21,4 +21,5 @@ Autenticación correcta
 ![Autenticación](docs/material_0/autenticacion.png)  
 
 ## Objetivo 1  
-[Milestones](docs/material_1/milestones.md)
+[Milestones](docs/material_1/milestones.md)  
+[Historias de usuario](docs/material_1/historias_usuario.md)
