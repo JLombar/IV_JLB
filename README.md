@@ -10,7 +10,7 @@ Todos los años, una gran cantidad de alumnos de Ingeniería Informática de la 
 [Ver archivo .gitignore](./.gitignore)
 > Se irá actualizando conforme se usen lenguajes o librerías
 
-## Objetivo 1  
+## Planificación del proyecto
 [Milestones](docs/material_1/milestones.md)  
 [Historias de usuario](docs/material_1/historias_usuario.md)
 
