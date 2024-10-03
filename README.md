@@ -10,16 +10,6 @@ Todos los años, una gran cantidad de alumnos de Ingeniería Informática de la 
 [Ver archivo .gitignore](./.gitignore)
 > Se irá actualizando conforme se usen lenguajes o librerías
 
-## Configuración
-Configuración correcta de correo electrónico y nombre  
-![Configuración](docs/material_0/configuracion.png)  
-Ejemplo para demostrar su funcionamiento correcto  
-![Demostración](docs/material_0/demostracion.png)  
-LLaves creadas y asociadas a la cuenta de GitHub  
-![Llaves](docs/material_0/llavessh.png)  
-Autenticación correcta  
-![Autenticación](docs/material_0/autenticacion.png)  
-
 ## Objetivo 1  
 [Milestones](docs/material_1/milestones.md)  
 [Historias de usuario](docs/material_1/historias_usuario.md)
