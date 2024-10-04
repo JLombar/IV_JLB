@@ -6,9 +6,6 @@ Todos los años, una gran cantidad de alumnos de Ingeniería Informática de la 
 
 ## Más información
 [Documento con los horarios de Ingeniería Infomática UGR](https://etsiit.ugr.es/sites/centros/etsiit/public/inline-files/HorariosGII%2824-25%29_0.pdf)  
-[Licencia](./LICENSE)  
-[Ver archivo .gitignore](./.gitignore)
-> Se irá actualizando conforme se usen lenguajes o librerías
 
 ## Planificación del proyecto
 [Milestones](docs/material_1/milestones.md)  
