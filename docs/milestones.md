@@ -1,22 +1,20 @@
 # Milestones
 ## Milestone 0: Entendimiento del problema y modelado inicial
-* Objetivo: Entender y compreder el problema que se plantea para ser desarrollado teniendo en cuenta las HU correspondientes incluyendo un modelo inicial que será modificado en un futuro.
-* Entregable:   
-    * Un documento de análisis que incluya una descripción del problema, objetivos del proyecto así como las HUs iniciales, así como requisitos o restricciones relevantes.
-    * Código que modele los elementos del planteamiento inicial del problema.
-* Viabilidad: Cuando se llegue a un acuerdo entre el revisor, desarrollador principal y el encargado de desarollar este milestone.
+* Objetivo: Entender y comprender el problema que se plantea para ser desarrollado teniendo en cuenta las HU correspondientes incluyendo un modelo inicial que será modificado en un futuro.
+* Entregable: Requisitos necesarios para el sistema, así como el lenguaje y metodología mediante el cual se va a desarrollar el proyecto para ir cumpliendo los diferentes hitos del mismo.
+* Viabilidad: Cuando se llegue a un mutuo acuerdo entre el revisor, desarrollador principal y el encargado de desarrollar este milestone. Todas las partes deben estar de acuerdo en que la abstracción del problema ha sido correctamente definida y refleja con precisión los requisitos del proyecto, permitiendo así avanzar hacia la siguiente fase del desarrollo.
 
-## Milestone 1: El programa es capaz de leer un PDF
-* Objetivo: EL programa será capaz de leer el archivo PDF donde se encuentran las asignaturas.
-* Entregable: Código capaz de abrir y leer un PDF.
-* Viabilidad: Cuando se cumplan los objetivos de los tests convenientes.
+## Milestone 1: Lectura del archivo donde figuran las asignaturas
+* Objetivo: Realizar la implementación que sea capaz de leer el archivo PDF donde se encuentran las asignaturas.
+* Entregable: Código capaz de abrir y leer un el archivo de las asignaturas.
+* Viabilidad: La viabilidad se alcanzará cuando se haya validado que el código puede abrir y leer correctamente el archivo donde figuran las asignaturas, pasando los test necesario que validen el objetivo.
 
 ## Milestone 2: Procesamiento del contenido extraído
-* Objetivo: El programa será capaz de procesar el contenido del PDF.
+* Objetivo: Realizar el procesamiento del contenido del archivo donde figuran las asignaturas.
 * Entregable: Código capaz extraer y procesar el texto para identificar y limpiar los nombres de las asignaturas, eliminando caracteres no deseados como saltos de línea o espacios en blanco.
-* Viabilidad: Cuando se cumplan los objetivos de los tests convenientes.
+* Viabilidad: La viabilidad se alcanzará cuando se haya validado que el código puede extraer y procesar correctamente el contenido del archivo, asegurando la identificación y limpieza adecuada de los nombres de las asignaturas, pasando los tests necesarios que validen este objetivo.
 
 ## Milestone 3: Las asignaturas figuran en una base de datos
-* Objetivo: El nuevo programa será capaz de conectarse con una base de datos e incluir las asignaturas en ella, con los todos los campos convenientes.
+* Objetivo: La nueva implementación será capaz de conectarse con una base de datos e incluir las asignaturas en ella, con los todos los campos convenientes.
 * Entregable: Código que permite incluir las asignaturas en una base de datos, incluyendo horarios, grupos y otros campos que puedan ser interesantes como la mención a la que pertenecer o incluso el docente que la imparte
-* Viabilidad: Cuando se cumplan los objetivos de los tests convenientes.
+* Viabilidad: La viabilidad se alcanzará cuando se haya validado que el código puede conectarse correctamente a la base de datos e incluir las asignaturas con todos los campos requeridos, pasando los tests necesarios que validen esta funcionalidad.
