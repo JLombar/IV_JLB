@@ -2,7 +2,7 @@
 ## Milestone 0: Entendimiento del problema y modelado inicial
 * Objetivo: Entender y compreder el problema que se plantea para ser desarrollado teniendo en cuenta las HU correspondientes incluyendo un modelo inicial que será modificado en un futuro.
 * Entregable:   
-    * Un documento de análisi que incluya una descripción del problema, objetivos del proyecto así como las HUs iniciales, así como requisitos o restricciones relevantes.
+    * Un documento de análisis que incluya una descripción del problema, objetivos del proyecto así como las HUs iniciales, así como requisitos o restricciones relevantes.
     * Código que modele los elementos del planteamiento inicial del problema.
 * Viabilidad: Cuando se llegue a un acuerdo entre el revisor, desarrollador principal y el encargado de desarollar este milestone.
 
