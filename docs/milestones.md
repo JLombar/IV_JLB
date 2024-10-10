@@ -1,6 +1,6 @@
 # Milestones
 ## Milestone 0: Entendimiento del problema y modelado inicial
-* Objetivo: Entender y comprender las HUs para definir el problema que se plantea para ser desarrollado, incluyendo un modelo inicial que será modificado en un futuro.
+* Objetivo: Entender y comprender la HU1, que será el principal foco de desarrollo, para definir el problema que se plantea para ser desarrollado, incluyendo un modelo inicial que será modificado y ampliado con el resto de historias de usuario en un futuro.
 * Entregable: Código que represente los elementos del dominio del problema que se va a desarrollar.
 * Viabilidad: Cuando se llegue a un mutuo acuerdo entre el revisor, desarrollador principal y el encargado de desarrollar este milestone. Todas las partes deben estar de acuerdo en que la abstracción del problema ha sido correctamente definida y refleja con precisión los requisitos del proyecto, permitiendo así avanzar hacia la siguiente fase del desarrollo.
 
