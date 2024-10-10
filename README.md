@@ -10,3 +10,4 @@ Todos los años, una gran cantidad de alumnos de Ingeniería Informática de la 
 ## Planificación del proyecto  
 [Milestones](docs/milestones.md)  
 [Historias de usuario](docs/historias_usuario.md)  
+[User Journeys](docs/user_jouneys.md)
