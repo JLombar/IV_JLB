@@ -1,7 +1,7 @@
 # Milestones
 ## Milestone 0: Entendimiento del problema y modelado inicial
-* Objetivo: Entender y comprender el problema que se plantea para ser desarrollado teniendo en cuenta las HU correspondientes incluyendo un modelo inicial que será modificado en un futuro.
-* Entregable: Requisitos necesarios para el sistema, así como el lenguaje y metodología mediante el cual se va a desarrollar el proyecto para ir cumpliendo los diferentes hitos del mismo.
+* Objetivo: Entender y comprender las HUs para definir el problema que se plantea para ser desarrollado, incluyendo un modelo inicial que será modificado en un futuro.
+* Entregable: Código que represente los elementos del dominio del problema que se va a desarrollar.
 * Viabilidad: Cuando se llegue a un mutuo acuerdo entre el revisor, desarrollador principal y el encargado de desarrollar este milestone. Todas las partes deben estar de acuerdo en que la abstracción del problema ha sido correctamente definida y refleja con precisión los requisitos del proyecto, permitiendo así avanzar hacia la siguiente fase del desarrollo.
 
 ## Milestone 1: Lectura del archivo donde figuran las asignaturas
